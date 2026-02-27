@@ -1,0 +1,10 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background: linear-gradient(to right, purple, blue);
+    color: white;
+}
+
+.weather-container {
+    margin-top: 50px;
+}
